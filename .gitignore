@@ -1,0 +1,30 @@
+# Node modules folder
+node_modules/
+
+# Logs
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Dependency directories (e.g., yarn or npm)
+.pnpm/
+.pnp/
+
+# Environment variables file (for sensitive data)
+.env
+
+# Build files and dist folders
+/dist
+/build
+
+# OS generated files (macOS, Windows)
+.DS_Store
+Thumbs.db
+
+# IDEs and editors (VSCode, JetBrains, etc.)
+.vscode/
+.idea/
+
+# Package lock file (optional, if you want to ignore it)
+package-lock.json
+yarn.lock
